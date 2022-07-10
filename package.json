@@ -1,0 +1,15 @@
+{
+   "name": "stagger-grid-effect",
+   "version": "1.0.0",
+   "description": "demo project.",
+   "scripts": {
+      "lite": "lite-server --port 10001",
+      "start": "npm run lite"
+   },
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "@types/animejs": "^3.1.4",
+      "lite-server": "^2.5.4"
+   }
+}
